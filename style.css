@@ -1,0 +1,12 @@
+.shop-data tr {
+  vertical-align: middle;
+}
+tbody#product_list a i {
+  pointer-events: none;
+}
+
+#productView img {
+  max-height: 400px;
+  object-fit: contain;
+  width: 100%;
+}
